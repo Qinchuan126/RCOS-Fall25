@@ -1,1 +1,4 @@
-# RCOS-Fall25
+- QinChuan Zhang 
+- ![My Avatar](myphoto.jpg)  
+- 2026  
+- Sentiment Analyzer
